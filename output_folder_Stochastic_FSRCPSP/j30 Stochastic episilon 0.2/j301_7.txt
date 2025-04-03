@@ -1,0 +1,4 @@
+----------------------------------------------------------------------------------------------------
+Optimality: 
+OptimizationStatus.INFEASIBLE
+The model is not feasible 
